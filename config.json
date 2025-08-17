@@ -13,16 +13,16 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
+    "EMAIL": "salmangazi77856@gmail.com",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Your-Father",
-    "PREFIX": "/",
+    "BOTNAME": "SalmanBot",
+    "PREFIX": "+",
     "ADMINBOT": [
-        "100037743553265"
+        "100071943783967"
     ],
     "NDH": [
-        "100037743553265"
+        "100071943783967"
     ],
     "DATABASE": {
         "sqlite": {
